@@ -1,1 +1,2 @@
-speed = 9
+speed = 9;
+direction = random(360);
